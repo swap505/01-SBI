@@ -1,3 +1,4 @@
 my directory
 working profession ............
 new addition
+something from the side of working tree to the central repoistory
