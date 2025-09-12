@@ -1,4 +1,5 @@
 my directory
 working profession ............
 new addition
-something from the side of working tree to the central repoistory
+something from the side of working tree to the central repository.
+The gui terminal is opened so i will working on the gui interface let see how it is working
