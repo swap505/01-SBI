@@ -6,3 +6,5 @@ The gui terminal is opened so i will working on the gui interface let see how it
 
 *******************
  created branch develop and here i will adding the some changes that will merge to file
+***********
+trying some frequent things where the branch develop is to store something new thing just as where we can see some new changes.
